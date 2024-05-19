@@ -1,0 +1,7 @@
+Post -> Inserir novos dados no servidor ou na aplicação
+Put -> Alterar dados inseridos, usado pra fazer alteração total, mais usado
+Patch -> Alterar dados inseridos, usado pra fazer alteração parcial
+Delete -> Faz a exclusão
+Tecnologia GraphQL -> Alternativa para o APIRestFull, usa apenas os métodos post e get
+Options -> Descrição de url, como resposta obtem as requisições que são utilizadas
+Head -> EX: Utilizada quando uma url tá funcionando
